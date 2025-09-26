@@ -1,5 +1,5 @@
 # yaroslav406.gethup.io
-name: CI Workflow
+name: yaroslav406.gethup.io
 
 on:
   push:
