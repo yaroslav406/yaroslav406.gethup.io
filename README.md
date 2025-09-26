@@ -1,4 +1,4 @@
-# yaroslav406.gethup.io
+# yaroslav406.github.io
 name: yaroslav406.gethup.io
 
 on:
